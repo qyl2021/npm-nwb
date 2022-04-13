@@ -61,7 +61,7 @@
     "babel-plugin-lodash": "3.3.4",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
     "babel-preset-proposals": "0.4.0",
-    "react-refresh": "0.10.0",
+    "react-refresh": "0.11.0",
 
     "karma": "6.3.2",
     "karma-chrome-launcher": "3.1.0",
